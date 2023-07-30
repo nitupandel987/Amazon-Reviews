@@ -5,6 +5,7 @@
 ![Screenshot (94)](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/5e554a79-c0b3-4695-9d24-16ac4a048f3f)
 
 
+
 <h3>Provides graph on basis of Ratings.</h3>
 
 ![GraphBasedOnRating](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/28bbc3dc-19f1-4ced-812f-f6d51792e7ad)
@@ -19,8 +20,12 @@
 
 <h3>Combine Output of both Vader and Roberta model</h3>
 
-![RobertaAndVaderGraph](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/950eac35-830c-49c5-939a-5ccb6a44e681)
+![RobertaAndVader](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/caac1b73-e764-4098-9a3d-d90c9b2712fd)
+
+
 
 <h3>Overall Graph Representation - Vader Representation and Roberta Model</h3>
+
+![RobertaAndVaderGraph](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/950eac35-830c-49c5-939a-5ccb6a44e681)
 
 ![RobertaAndVaderGraph2](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/44b01b0c-e419-4e87-9357-839905f76a45)
