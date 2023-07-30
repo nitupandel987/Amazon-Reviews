@@ -1,6 +1,6 @@
 <h1>Amazon Review Collection and Sentiment Analysis</h2>
 
-<h3>Data Collected - Reviews, Rating and Product Name</h3>
+<h3 text-align ="center">Data Collected - Reviews, Rating and Product Name</h3>
 
 ![Screenshot (94)](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/5e554a79-c0b3-4695-9d24-16ac4a048f3f)
 
