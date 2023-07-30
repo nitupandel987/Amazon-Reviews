@@ -1,11 +1,16 @@
 Amazon Review Collection and Sentiment Analysis
 
-<h1>Data Collected - Reviews, Rating and Product Name</h1>
+<h3>Data Collected - Reviews, Rating and Product Name</h3>
 
 ![Screenshot (94)](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/5e554a79-c0b3-4695-9d24-16ac4a048f3f)
 
 
 ![output](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/8090a512-a468-42c9-8865-1e0d4710f564)
+
+<h3>Provides graph on basis of Ratings.
+![image](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/d795ec71-c69f-49d5-aa41-a5886cb7dcd7)
+</h3>
+
 ![classifying](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/5cddab03-cf76-46b7-9fe6-d7d808b01e12)
 ![GraphBasedOnRating](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/28bbc3dc-19f1-4ced-812f-f6d51792e7ad)
 ![RobertaAndVaderGraph](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/950eac35-830c-49c5-939a-5ccb6a44e681)
