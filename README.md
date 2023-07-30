@@ -37,9 +37,11 @@
 
 ![RobertaAndVader](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/caac1b73-e764-4098-9a3d-d90c9b2712fd)
 
-
+<br>
+<br>
 
 <h3>Overall Graph Representation - Vader Representation and Roberta Model</h3>
+<br>
 
 ![RobertaAndVaderGraph](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/950eac35-830c-49c5-939a-5ccb6a44e681)
 
