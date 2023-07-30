@@ -4,7 +4,7 @@
 
 ![Screenshot (94)](https://github.com/nitupandel987/Amazon-Reviews/assets/76653397/5e554a79-c0b3-4695-9d24-16ac4a048f3f)
 
-
+<br>
 
 <h3>Provides graph on basis of Ratings.</h3>
 
